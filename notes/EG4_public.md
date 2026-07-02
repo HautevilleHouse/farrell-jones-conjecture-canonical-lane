@@ -1,6 +1,6 @@
 # EG4 Public Note (Rigidity and Endpoint Transfer)
 
-Mature wording: `bad-limit exclusion / endpoint transfer`.
+Canonical wording: `bad-limit exclusion / endpoint transfer`.
 
 In-paper anchor: `paper/FARRELL_JONES_CONJECTURE_PREPRINT.md` (`FJ_G4`, `FJ_G5`).
 
@@ -42,5 +42,5 @@ If bad limits are excluded and the endpoint lock is active, then `FJ_G4` and `FJ
 - rigidity artifact key: `rho_rigidity`
 - transfer gate: `FJ_G5`
 - transfer artifact key: `isomorphism_transfer`
-- mature equivalent: `bad-limit exclusion / endpoint identification`
+- canonical equivalent: `bad-limit exclusion / endpoint identification`
 - audit surface: `notes/IDENTIFICATION_BRIDGE.md` and `repro/certificate_runtime.json`
